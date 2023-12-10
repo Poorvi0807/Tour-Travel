@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://github.com/prajju04/Travel/assets/107431207/7929eddf-011d-4098-96cf-053c02ed6f42](https://github.com/prajju04/Travel/assets/107431207/7929eddf-011d-4098-96cf-053c02ed6f42)
+[https://github.com/prajju04/Travel/assets/107431207/7929eddf-011d-4098-96cf-053c02ed6f42](https://spectacular-khapse-b41a77.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
